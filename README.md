@@ -1,3 +1,2 @@
 # Expense_Tracker
 
-# ExpenseTracker
